@@ -12,6 +12,15 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+header{
+  height: 1070.24px;
+  padding: 0px 0px 40%;
+  border: 1px solid;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
 /**
  * Remove default margin.
  */
